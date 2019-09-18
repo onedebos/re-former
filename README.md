@@ -1,24 +1,22 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Building RESTful Forms in Rails using the form_for and form_tag. 
 
-Things you may want to cover:
 
-* Ruby version
+## Ruby version:
 
-* System dependencies
+```
+$ ruby-2.5.1
+```
 
-* Configuration
+## Rails version:
 
-* Database creation
+```
+$ rails-5.2.3
+```
 
-* Database initialization
+Made by:
 
-* How to run the test suite
++ [Rodolfo Cisneros](https://github.com/rociac)
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
++ [Adebola Adeniran](https://github.com/onedebos) 
