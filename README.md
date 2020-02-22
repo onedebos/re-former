@@ -2,8 +2,6 @@
 
 > Building RESTful Forms in Rails using the form_for and form_tag. 
 
-![screenshot](./app_screenshot.png)
-
 ## Built With
 
 - Ruby
